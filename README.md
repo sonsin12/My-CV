@@ -1,4 +1,4 @@
 # My CV Website
 
 ## Live Demo
-https://roadmap.sh/projects/single-page-cv
+https://github.com/sonsin12/My-CV

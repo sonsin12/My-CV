@@ -1,4 +1,4 @@
 # My CV Website
 
 ## Live Demo
-https://github.com/sonsin12/My-CV
+https://sonsin12.github.io/My-CV/
